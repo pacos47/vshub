@@ -1,1 +1,45 @@
 just to test text1
+
+How to Install Git GUI on Ubuntu:
+Install Git (if not already installed):
+
+bash
+Copy
+sudo apt update
+sudo apt install git
+This will install both the command-line Git tools and git-gui.
+
+Run Git GUI:
+
+From the terminal:
+
+bash
+Copy
+git gui
+Alternatively, you can search for "Git GUI" in the Ubuntu application menu.
+
+Alternative Git GUIs for Ubuntu:
+If you're looking for more advanced Git GUIs, consider these alternatives:
+
+GitKraken (Proprietary, free for non-commercial use)
+https://www.gitkraken.com/
+
+Fork (Proprietary, free trial)
+https://git-fork.com/
+
+Git Cola (Open-source)
+
+bash
+Copy
+sudo apt install git-cola
+SmartGit (Proprietary, free for non-commercial use)
+https://www.syntevo.com/smartgit/
+
+Lazygit (Terminal-based TUI)
+
+bash
+Copy
+sudo apt install lazygit
+Would you like help setting up any of these alternatives? 😊
+
+New chat
